@@ -1,6 +1,6 @@
 # Awesome-Credit-Notes-Accounts-Receivable-Credit
 
-# Top Credit Notes & Accounts Receivable Credit Ecosystem
+## Top Credit Notes & Accounts Receivable Credit Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Credit Memo Issuance, AR Automation & B2B Credit Risk Management*  
