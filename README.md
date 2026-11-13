@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Credit-Notes-Accounts-Receivable-Credit/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -67,9 +67,9 @@ The sector exhibits **moderate fragmentation with dual-tier concentration**: the
 Open-source tools offer complete data sovereignty, zero per-invoice transaction fees, and full auditability for invoice lifecycle management, credit note issuance, and accounts receivable tracking.
 
 > [!TIP]
-> The table below is sorted in **descending order by GitHub star count**. Each star badge links directly to that repository's stargazers page.
+> The table below is sorted in **descending order by GitHub Stars_Count**. Each Stars_Badge links directly to that repository's stargazers page.
 
-| Project | Stars | Tech Stack | License | Description |
+| Project | GitHub_Stars | Tech Stack | License | Description |
 |:---|:---:|:---:|:---:|:---|
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP / Laravel / Flutter | Source-Available | Full-featured billing, invoicing, and payment processing suite with native support for **credit notes**, customer balance adjustments, client portals, partial payments, and multi-currency billing. |
 | **[Crater](https://github.com/crater-invoice-inc/crater)** | [![Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers) | PHP / Laravel / Vue.js | Open-Source | Clean, self-hosted invoicing solution for freelancers and small businesses. Generates detailed invoices, estimates, credit trackings, and payment records with dedicated mobile and web apps. |
